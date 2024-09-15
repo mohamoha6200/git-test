@@ -1,1 +1,8 @@
-
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "body": "This is a test post." }
+  ],
+  "users": [
+    { "id": 1, "name": "John Doe" }
+  ]
+}
